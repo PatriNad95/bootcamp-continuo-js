@@ -12,4 +12,10 @@ staging
 commit
 ![Alt text](image-3.png)
 
+hacemos push
 ![Alt text](image-4.png)
+
+hacemos el merge a main
+![Alt text](image-5.png)
+
+repetimos proceso de subida
