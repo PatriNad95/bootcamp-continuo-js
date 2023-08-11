@@ -5,6 +5,3 @@ Cogemos la URL y clonamos el repositorio
 
 Creamos una nueva rama y nos vamos a ella 
 ![Alt text](image-1.png)
-
-
-Subimos a git
